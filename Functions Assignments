@@ -11,4 +11,3 @@ def perimeter_of_circle(radius):
 # Call functions and display results
 print("Area of Circle:", area_of_circle(radius))
 print("Perimeter of Circle:", perimeter_of_circle(radius))
-
